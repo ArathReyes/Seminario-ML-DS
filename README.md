@@ -1,5 +1,5 @@
 # Seminario-ML-DS
-Equipo confirmado por:
+Equipo conformado por:
 * Arath Alejandro Reyes López
 * Eduardo
 * Sebastián
