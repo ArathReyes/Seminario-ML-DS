@@ -1,9 +1,9 @@
 # Seminario-ML-DS
 Equipo conformado por:
 * Arath Alejandro Reyes López
-* Eduardo
-* Sebastián
-* Ivana
+* Eduardo de Jesús Cuellar
+* Sebastián Rosas Ayala
+* Ivana Sanchez
 
 <p align="center">
    <img src="https://i.kym-cdn.com/entries/icons/original/000/032/100/cover4.jpg"/>
