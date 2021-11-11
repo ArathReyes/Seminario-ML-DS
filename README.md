@@ -1,4 +1,7 @@
 # Seminario-ML-DS
+
+**La versión final es el documento que dice Tarea1_definitivo**
+
 Equipo conformado por:
 * Arath Alejandro Reyes López
 * Eduardo de Jesús Cuellar
