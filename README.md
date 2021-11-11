@@ -4,7 +4,7 @@
 
 Equipo conformado por:
 * Arath Alejandro Reyes López
-* Eduardo de Jesús Cuellar
+* Eduardo de Jesús Cuellar Chávez
 * Sebastián Rosas Ayala
 * Ivana Sánchez Olivares
 
